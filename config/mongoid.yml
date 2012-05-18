@@ -1,0 +1,5 @@
+development:
+  host: localhost
+  database: mydb
+production:
+  uri: <%= ENV['MONGOHQ_URL'] %>
