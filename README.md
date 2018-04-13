@@ -18,4 +18,6 @@ A base Sinatra template. You need Ruby 1.9.2 (compatibility).
 
 - set your environment variable `MONGOHQ_URL` and run `foreman start` to check the execution in heroku.
 
+--------------------
 It's deprecated.
+--------------------
